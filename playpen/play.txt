@@ -1,0 +1,8 @@
+commands
+
+
+Copy directires and files using the following -r is recursive
+cp -r /path/to/directory /path/to/location/new-name
+
+
+mv <file or directory> <file or directory>
